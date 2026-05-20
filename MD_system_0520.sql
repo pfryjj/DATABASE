@@ -1,0 +1,4 @@
+--select pid, pname, pcity from passenger;
+--select pname, pcity from Passenger where pgender = '남';
+--select fid, fdate, dest from Flight where src = '김포';
+--select fdate from booking group by pid
